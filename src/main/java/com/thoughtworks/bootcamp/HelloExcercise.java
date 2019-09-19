@@ -1,5 +1,5 @@
 package com.thoughtworks.bootcamp;
 
 public class HelloExcercise {
- String name;
+  System.out.println("Hello");
 }
