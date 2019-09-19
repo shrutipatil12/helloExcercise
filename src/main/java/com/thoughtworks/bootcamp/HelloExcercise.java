@@ -6,3 +6,4 @@ public class HelloExcercise {
   int number;
 
 }
+
