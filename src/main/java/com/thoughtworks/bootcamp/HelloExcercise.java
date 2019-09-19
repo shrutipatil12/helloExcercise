@@ -2,7 +2,7 @@ package com.thoughtworks.bootcamp;
 
 public class HelloExcercise {
 
-  System.out.println("Hello0000000002222222222255555566666777788888888899900000");
+  System.out.println("Hello000000000222222222225555556666677778888888889990000011");
   int number;
 
 }
