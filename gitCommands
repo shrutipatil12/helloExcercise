@@ -1,0 +1,342 @@
+    2  brew install git 
+    4  git --version
+   12  git remote -v
+   13  git add .
+   14  git commit -m "[swapnil|shruti] Add. initialize rectangle project"
+   15  git remote add origin git@github.com:shrutipatil12/bootcamp-rectangle.git
+   16  git push origin master
+   17  git push -f origin master
+   18  git remote -v
+   19  git remote remove origin
+   20  git remote add git@github.com:shrutipatil12/bootcamp-rectangle.git
+   21  git remote -v
+   22  git remote add origin git@github.com:shrutipatil12/bootcamp-rectangle.git
+   23  git push -u origin master
+   30  git add .
+   31  git commit -m "[swapnil|shruti] Add. testCaes for zero value of lenght and breadth"
+   32  git push origin master
+   33  git remote
+   34  git remote -v
+   35  git commit -m "[swapnil|shruti] Add. testCaes for zero value of lenght and breadth"
+   36  git push origin master
+   37  git add .
+   38  git commit -m "[swapnil|shruti] Add. testCaes for zero value of lenght and breadth"
+   39  git push -f origin master
+   40  git remove remote
+   41  git remote remove
+   47  git add .
+   48  git log
+   49  git status
+   50  git pull
+   52  git init 
+   53  git add .
+   54  git remote add origin git@github.com:shrutipatil12/BootcampAssignment_01.git
+   56  git clone git@github.com:shrutipatil12/bootcamp-rectangle.git
+   77  git init 
+   78  git add .
+   79  git remote add git@github.com:shrutipatil12/Excercise-Probability.git
+   80  git remote add origin git@github.com:shrutipatil12/Excercise-Probability.git
+   91  git status
+   93  .git
+   96  excercise-git
+   98  .git
+  105  .git
+  116  git status
+  117  git add .
+  118  git commit -m "Add. Readme file"
+  131  excercise-git
+  132  .git
+  140  git status
+  141  git add .
+  142  git commit -m "[shruti] Add. readme file"
+  143  .git
+  148  git add .
+  149  git commit -m "shruti add readme file"
+  150  git status
+  151  git push origin master
+  152  git pull
+  153  git push origin master
+  154  .git
+  158  git add .
+  159  git commit -m "shruti add readme file"
+  160  git status
+  161  git log
+  162  git push origin master
+  163  .git
+  167  git add .
+  168  git commit -m "shruti add readme file"
+  170  git add .
+  171  git commit -m "shruti add sample file"
+  172  .git
+  174  excercise-git
+  175  git push origin master -f
+  181  excercise-git
+  182  .git
+  189  git add .
+  190  git commit -m "shruti add demo file "
+  192  .git
+  196  git add .
+  198  git add .
+  199  git commit -m "shruti add demo1 file "
+  200  .git
+  205  git add .
+  206  git commit -m "[shruti] Add. file content"
+  208  .git
+  212  git add .
+  213  git commit -m "shruti add demo file" 
+  215  .git
+  220  git add demo1.txt
+  221  git commit -m "123"
+  222  .git
+  227  git add .
+  228  git commit -m "123"
+  229  git commit -m "[Shruti] Add. demo file"
+  230  git commit -m "[Shruti|sunil] Add. demo file"
+  231  git commit -m "[shruti|sunil] Add. demo file"
+  232  git commit -m "[shruti|sunil]Add. demo file"
+  233  git commit -m "[shruti|sunil]Add. demofile"
+  237  git clone git@github.com:tw-bl-bootcamp/animal-farm-shrutipatil12.git
+  241  git clone https://github.com/tw-bl-bootcamp/mars-rover-shrutipatil12.git
+  248  excercise-git
+  250  .git
+  258  git clone https://github.com/tw-bl-bootcamp/iflix.git
+  261  git clone git@github.com:tw-bl-bootcamp/iflix-shrutipatil12.git
+  297  git clone git@github.com:tw-bl-bootcamp/iflix-shrutipatil12.git
+  309  git init
+  310  git add .
+  311  git commit -m "Update. Tech stack in README.md file"
+  312  git push -u origin master
+  329  git add .
+  330  git commit -m "Add. dependencies of project"
+  331  git push -u origin master
+  332  git add .
+  333  git commit -m "Add. node_modules in .gitignore file"
+  334  git push -u origin master
+  335  git add .
+  336  git commit -m "Add. database config file"
+  337  git push -u origin master
+  338  git add .
+  339  git commit -m "Add. server connection and database configuration in server file"
+  340  git push -u origin master
+  342  git add .
+  343  git commit -m "Add. environment variable for port in .env file" 
+  344  git push -u origin master
+  349  git clone git@github.com:tw-bl-bootcamp/iflix-shrutipatil12.git
+  437  git init
+  438  git add .
+  459  git init 
+  460  git add .
+  461  git status
+  462  git init 
+  463  git add .
+  464  git status
+  465  git init 
+  466  git add .
+  467  git status
+  468  git rm -rf node_modules
+  469  git add .
+  470  git status
+  471  git commit -m "[Shruti] Add. login functionality for valid user credentials "
+  472  git push -u origin master
+  474  git init 
+  475  git add .
+  476  git commit -m "[Shruti] Add. login functionality for valid user credentials"
+  477  git push -u origin master
+  484  git add .
+  485  git status
+  486  git rm -rf node_modules
+  489  git rm -rf node_modules
+  490  git rm --cache
+  491  git add .
+  492  git status
+  493  git commit -m "[Shruti] Add. check behaviour of login api for invalid email id"
+  494  git push -u origin master
+  496  git add .
+  497  git commit -m "[Shruti] Add. check behaviour of login api for invalid email id"
+  498  git init
+  499  git add .
+  500  git commit -m "[Shruti] Add. check behaviour of login api for invalid email id"
+  501  git status
+  502  git pull
+  503  git push -u origin master
+  504  git clean
+  505  git add .
+  506  git commit -m "[Shruti] Add. check behaviour of login api for invalid email id"
+  507  git push -u origin master
+  508  git add .
+  509  git status
+  510  git commit -m "[Shruti] Add. check behaviour of login api for invalid email id"
+  511  git push -u origin master
+  513  git rm -rf node_modules
+  514  git remove -rf node_modules
+  515  git rm -rf node_modules
+  517  git rm -r node_modules
+  518  git rm -rf node_modules
+  520  git rm -rf node_modules
+  521  git add .gitignore
+  522  git status
+  523  git rm -rf node_modules
+  526  git rm -rf node_modules
+  535  git rm -rf node_modules
+  537  git rm -rf node_modules
+  538  git status
+  539  git add .
+  540  git status
+  541  git commit -m "[shruti] Delete. node_modules" 
+  542  git push
+  543  git push -u origin master
+  546  git push -u origin master
+  547  git astatus
+  548  git status
+  552  git rm -rf node_modules
+  554  git rm -rf node_modules
+  555  git rm -r --node_modules
+  556  git rm -f node_modules
+  557  git add .
+  558  git status
+  559  git commit -m "[Shruti] Delete. node_modules" 
+  560  git push -u origin master
+  561  git push origin master
+  563  git add .
+  564  git status
+  565  git commit -m "[Shruti] Delete. node_modules" 
+  566  git push origin master
+  582  git init 
+  583  git add loginTest.spec.js
+  584  git add Test/loginTest.spec.js
+  585  git status
+  586  git commit -m "[Shruti] Add. validate the login api for wrong email and password"
+  587  git push origin master
+  589  git add Test/loginTest.spec.js
+  590  git init
+  591  git add Test/loginTest.spec.js
+  592  git add Server/Test/loginTest.spec.js
+  593  git commit -m "[Shruti] Add. validate the login api for wrong email and password"
+  594  git push origin master
+  595  git add Server/Test/loginTest.spec.js
+  596  git commit -m "[Shruti] Add. the login behaviour api for valid email and password"
+  597  git push origin master
+  598  git add Server/Test/loginTest.spec.js
+  599  git commit -m "[Shruti] Add. to check empty request url for login api"
+  600  git push origin master
+  601  git add Server/Test/loginTest.spec.js
+  602  git commit -m "[Shruti] Add. to check invalid request url for login api"
+  603  git push origin master
+  607  git add .
+  608  git commit -m "[Shruti] Add. check movieShow api after empty request url "
+  615  git add .
+  616  git status
+  617  git add Server/Test/movieTest.spec.js
+  618  git status
+  619  git commit -m "[Shruti] Add. check movieShow api after empty request url "
+  621  git add Server/Test/movieTest.spec.js
+  658  git init
+  659  git add Server/Test/movieTest.spec.js
+  660  git commit -m "[Shruti] Add. check movie api for empty request url"
+  661  git push origin master
+  662  git add .
+  663  git commit -m "[Shruti] Add. behaviour of movie shows api"
+  665  git init
+  666  git add .
+  667  git commit -m "[Shruti] Add. behaviour of movie shows api"
+  668  git rm -rf node_modules
+  669  git add .
+  670  git commit -m "[Shruti] Add. behaviour of movie shows api"
+  671  git push origin master
+  673  git add .
+  674  git commit -m "[Shruti] Add. behaviour of movie shows api"
+  675  git push origin master
+  676  git init 
+  677  git add Client
+  679  git init 
+  680  git add .
+  681  git status
+  682  git commit -m "[Shruti] Add. User Interface for login and movie shows api"
+  683  git push -u origin master
+  684  git push origin master
+  686  git add Client
+  687  git status
+  688  git commit -m "[Shruti] Add. User Interface for login and movie shows api"
+  689  git add Client
+  690  git commit -m "[Shruti] Add. User Interface for login and movie shows api"
+  691  git push origin master
+  692  git add Client
+  693  git commit -m "[Shruti] Add. User Interface for login and movie shows api"
+  694  git push origin master
+  702  git add Server
+  703  git status
+  704  git rm -rf node_modules
+  705  git rm -rf Server/node_modules
+  706  git status
+  707  git commit -m "[Shruti] Add. check the behaviour of movie show api for invalid request url"
+  708  git push origin master
+  716  git add Server/README.md
+  717  git add Server
+  718  git commit -m "[Shruti] Add. commands "
+  719  git push origin master
+  720  git add Server
+  721  git commit -m "[Shruti] Add. commands "
+  722  git push origin master
+  724  git add .
+  725  git commit -m "[Shruti] Add. commands "
+  726  git push origin master
+  728  git init
+  729  git add .
+  730  git commit -m "[Shruti] Add. commands "
+  731  git push origin master
+  738  git init 
+  739  git add .
+  740  git status
+  749  git init 
+  754  git pull origin master
+  755  git diff 
+  756  git pull origin master
+  757  git diff
+  758  git status
+  759  git add .
+  760  git commit -m "language changes"
+  761  git push origin master 
+  765  git diff src/main/java/com/thoughtworks/bootcamp/HelloExcercise.java
+  766  git pull origin master 
+  767  git add .
+  768  git pull origin master 
+  769  git add .
+  770  git branch demoBranch
+  771  git checkout demoBranch 
+  772  git diff
+  773  git checkout master
+  774  git pull origin master
+  775  git diff 
+  776  git checkout demoBranch
+  777  git diff 
+  778  git pull origin master
+  779  git diff 
+  780  git status
+  781  git checkout master 
+  782  git s
+  783  git status
+  784  git add .
+  785  git commit -m "conflict changes"
+  786  git diff demoBranch 
+  787  git status
+  788  git checkout demoBranch 
+  789  git merge master 
+  790  git diff
+  791  git diff 
+  792  git checkout master
+  793  git add .
+  794  git commit -m "into master"
+  795  git diff
+  796  git checkout master
+  797  git diff demoBranch 
+  798  git checkout demoBranch 
+  799  git merge master
+  800  git push origin demoBranch 
+  801  git cheackout master
+  802  git checkout master
+  803  git pull origin master 
+  804  git add .
+  805  git checkout demoBranch 
+  806  git pull origin demoBranch 
+  807  git merge master
+  808  history | grep git 
