@@ -1,4 +1,5 @@
-    2  brew install git 
+ 
+   2  brew install git 
     4  git --version
    12  git remote -v
    13  git add .
